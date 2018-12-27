@@ -1,0 +1,8 @@
+?token=«· Êﬂ‰ 
+owner=«œÌ » ⁄ﬂ 
+prefix= o
+game= ohelp
+stayinchannel=true
+songinstatus=true 
+token=NTEyNjg1NTg0MDk1OTAzNzU2.DwZ9nw.j-jhjzq2uXNbV9jHIneTc7tZCLM
+owner=500351379865468930
